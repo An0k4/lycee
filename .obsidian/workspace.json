@@ -137,13 +137,21 @@
                 "file": "Untitled.md"
               }
             }
+          },
+          {
+            "id": "9d305525d5f19b2d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
