@@ -1,11 +1,14 @@
 [
   "obsidian-git",
-  "obsidian-annotator",
   "better-word-count",
   "obsidian-excalidraw-plugin",
   "highlightr-plugin",
   "obsidian-icon-folder",
   "obsidian-mind-map",
-  "templater-obsidian",
-  "obsidian-plugin-update-tracker"
+  "obsidian-plugin-update-tracker",
+  "obsidian-auto-link-title",
+  "obsidian-kanban",
+  "omnisearch",
+  "obsidian-reading-time",
+  "recent-files-obsidian"
 ]
