@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lycee/Untitled.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lycee/Untitled.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lycee/Untitled.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lycee/Untitled.md"
+                "file": "Untitled.md"
               }
             }
           }
@@ -155,7 +155,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f794690e5862d95b",
+  "active": "807e1a18d39f3c04",
   "lastOpenFiles": [
     "Untitled.md",
     "Repo/Untitled",
