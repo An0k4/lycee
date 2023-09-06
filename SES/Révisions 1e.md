@@ -43,3 +43,5 @@
 2. Sentiment de compétence politique
 3. Intérêt pour la politique
 4. Participation électorale
+
+
