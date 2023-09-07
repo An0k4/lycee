@@ -86,6 +86,22 @@
             }
           }
         ]
+      },
+      {
+        "id": "40bfd10d54b59ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fdea4542debd60c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md"
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -97,6 +113,23 @@
     "children": [
       {
         "id": "7eba73d746b557a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb0c7bad24abe403",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "e0a465484d61b993",
         "type": "tabs",
         "children": [
           {
@@ -127,28 +160,14 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "fb0c7bad24abe403",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "6fdea4542debd60c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.md"
-              }
-            }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "59fa8512179d05d5",
+        "type": "tabs",
+        "children": [
           {
             "id": "9d305525d5f19b2d",
             "type": "leaf",
@@ -157,8 +176,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +194,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "807e1a18d39f3c04",
+  "active": "9d305525d5f19b2d",
   "lastOpenFiles": [
     "SES/Révisions 1e.md",
     "Untitled.md",
