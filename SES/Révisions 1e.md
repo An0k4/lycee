@@ -1,7 +1,7 @@
 #### Pages 13-14
 ##### Ex 2:
 1. Pouvoir de marché
-2. Ententes
+2. Entente
 3. Barrières à l’entrée
 4. Monopole
 5. Innovation
