@@ -13,3 +13,5 @@
 f
 ### 1 - Définitions
 - La croissance est l'augmentation soutenue des quantités de biens et de services produits durant une longue période durée
+- Selon François Perroux, économiste français du XXè, la croissance est "l'augmentation soutenue durant une ou plusieurs périodes longues d'un indicateur de dimension: pour une nation, le produit global brut ou net, en termes réels"
+### 2 - Indicateur
