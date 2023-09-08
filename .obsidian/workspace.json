@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
+                "file": "SES/Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca8a8b17b2dd53dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chapitre 1 - Quels sont les sources et les défis de la croissance.md"
+                "file": "Introduction.md"
               }
             }
           }
@@ -139,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
+                "file": "Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
+                "file": "Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,10 +207,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "39a5ee80c3e82f99",
+  "active": "ca8a8b17b2dd53dd",
   "lastOpenFiles": [
+    "SES/Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
+    "Introduction.md",
+    "SVT",
     "SES/Révisions 1e.md",
-    "Chapitre 1 - Quels sont les sources et les défis de la croissance.md",
     "Untitled.md",
     "SES",
     "Repo/Untitled",
