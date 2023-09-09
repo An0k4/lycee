@@ -11,8 +11,8 @@
 ## A - La croissance économique: définitions et indicateur
 ##### Document 1 page 18
 1. La valeur ajoutée est la différence entre le prix de vente et le coût de production d'un bien ou service. Elle se calcule sous la forme Pvente - Pproduction
-2. PIB = 
-3. Le PIB peut augmenter à cause d'une hausse de la production ou à cause
+2. PIB = somme des rémunérations = somme des dépenses = ?
+3. Le PIB peut augmenter à cause d'une hausse de la production ou à cause d'une hausse des prix
 4. Le PIB mesure mal les inégalités de revenu, les effets sur l'environnement et les productions non déclarées
 5. La croissance économique est l'augmentation du PIB soit l'augmentation de la valeur ajoutée du pays
 
