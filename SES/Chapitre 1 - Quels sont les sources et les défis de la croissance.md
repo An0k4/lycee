@@ -10,7 +10,12 @@
 # I - Les origines de la croissance économique
 ## A - La croissance économique: définitions et indicateur
 ##### Document 1 page 18
-f
+1. La valeur ajoutée est la différence entre le prix de vente et le coût de production d'un bien ou service. Elle se calcule sous la forme Pvente - Pproduction
+2. PIB = 
+3. Le PIB peut augmenter à cause d'une hausse de la production ou à cause
+4. Le PIB mesure mal les inégalités de revenu, les effets sur l'environnement et les productions non déclarées
+5. La croissance économique est l'augmentation du PIB soit l'augmentation de la valeur ajoutée du pays
+
 ### 1 - Définitions
 - La croissance est l'augmentation soutenue des quantités de biens et de services produits durant une longue période durée
 - Selon François Perroux, économiste français du XXè, la croissance est "l'augmentation soutenue durant une ou plusieurs périodes longues d'un indicateur de dimension: pour une nation, le produit global brut ou net, en termes réels"
